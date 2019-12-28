@@ -88,8 +88,8 @@ Aborted!
 The script above will generate the following zone template file which is rendered from Jinja2 and contains correct values for NS and SOA. 
 
 ```
-more zone_files/impl-wd100.myworkdaysite.com
-$ORIGIN impl-wd100.myworkdaysite.com.
+more zone_files/www.mytestzone.com
+$ORIGIN www.mytestzone.com.
 @       3600    IN      SOA pdns1.ultradns.net.  (
                 2019111915      ;Serial
                         60                  ;Refresh

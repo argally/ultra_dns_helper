@@ -1,5 +1,5 @@
 $ORIGIN {{domain}}.
-@	3600	IN	SOA pdns1.ultradns.net. noc.workday.com. (
+@	3600	IN	SOA pdns1.ultradns.net.  (
 	        {{serial}}	;Serial
 			60		    ;Refresh
 			60		    ;Retry
