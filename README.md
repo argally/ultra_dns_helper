@@ -80,7 +80,7 @@ To create a new zone using a zone template file for NS and SOA records e.g www.m
 ./ultra_dns_helper.py -z zones_add.txt -t zone_template.js
 Please enter your UltraDns password:
 Please enter your UltraDns 2FA token:
-Zone template created /opt/ghe.megaleo.com/ultra_dns_helper/zone_files/www.mytestzone.com
+Zone template created /opt/mydir/ultra_dns_helper/zone_files/www.mytestzone.com
 Create Ultra Zone from template www.mytestzone.com? [y/N]: n
 Aborted!
 ```
